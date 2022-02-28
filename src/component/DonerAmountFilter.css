@@ -1,0 +1,14 @@
+.donerAmountSelect{
+    float: right;
+   padding: 1%;
+    position: relative;
+    bottom: 1.8rem;
+    border-radius: 12px;
+    color:white;
+    background-color: #40005d;
+   
+}
+.filterByAmount{
+    font-size: 1.3rem;
+    margin-left: 2.5rem;
+}

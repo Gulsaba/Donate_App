@@ -1,0 +1,28 @@
+.formContainer {
+    background-color: #a892ee;
+    padding: 1rem;
+    margin: 2rem auto;
+    width: 60rem;
+    max-width: 95%;
+    border-radius: 12px;
+    text-align: center;
+  }
+  
+  
+  
+  .new-expense button:hover,
+  .new-expense button:active {
+    background-color: #510674;
+    border-color: #510674;
+  }
+  
+  .new-expense button.alternative {
+    color: #220131;
+    border-color: transparent;
+    background-color: transparent;
+  }
+  
+  .new-expense button.alternative:hover,
+  .new-expense button.alternative:active {
+    background-color: #ddb3f8;
+  }

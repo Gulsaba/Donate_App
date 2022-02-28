@@ -1,0 +1,45 @@
+.inputFields {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    margin-bottom: 1rem;
+    text-align: left;
+    font-size: 1.2rem;
+   
+  }
+  
+  .lableClass label {
+    margin-left: 1rem;
+    font-weight: bold;
+    display: block;
+    
+  }
+  
+  .inputField input {
+    
+    font-size: 1.3rem;
+    margin-top: 1.5rem;
+    padding: 0.2rem;
+    border-radius: 6px;
+    border: 1px solid #ccc;
+    width: 20rem;
+
+   
+  }
+  .new-expense{
+    font-size : 1.3rem;
+    cursor: pointer;
+    padding: 0.3rem 4rem;
+    margin-top: 1.5rem;
+    border: 1px solid #40005d;
+    background-color: #40005d;
+    color: white;
+    border-radius: 12px;
+    margin-right: 1rem;
+    margin-left: 4rem;
+   
+  }
+  
+  .new-expense__actions {
+    text-align: right;
+  }
